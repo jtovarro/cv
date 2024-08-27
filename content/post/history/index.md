@@ -13,7 +13,11 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ## **Consultant at Red Hat, Professional Services.**
 
-#### - EMEA 2024 TOP GUN
+### **Awards** 
+
+- EMEA 2024 TOP GUN
+- Super Ambassador 2022 & 2023
+- Open Source Contribution Recognition Program
 
 ### **Summary**
 
