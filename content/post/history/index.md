@@ -13,6 +13,8 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ## **Consultant at Red Hat, Professional Services.**
 
+#### - EMEA 2024 TOP GUN
+
 ### **Summary**
 
 | Working with focus in Automation, OpenShift, and GitOps  technologies: |
